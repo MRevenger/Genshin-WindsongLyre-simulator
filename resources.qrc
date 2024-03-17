@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>audio/A.wav</file>
+        <file>audio/B.wav</file>
+        <file>audio/C.wav</file>
+        <file>audio/D.wav</file>
+        <file>audio/E.wav</file>
+        <file>audio/F.wav</file>
+        <file>audio/G.wav</file>
+        <file>audio/H.wav</file>
+        <file>audio/J.wav</file>
+        <file>audio/M.wav</file>
+        <file>audio/N.wav</file>
+        <file>audio/Q.wav</file>
+        <file>audio/R.wav</file>
+        <file>audio/S.wav</file>
+        <file>audio/T.wav</file>
+        <file>audio/U.wav</file>
+        <file>audio/V.wav</file>
+        <file>audio/W.wav</file>
+        <file>audio/X.wav</file>
+        <file>audio/Y.wav</file>
+        <file>audio/Z.wav</file>
+        <file>picture/g.png</file>
+        <file>picture/cs.svg</file>
+        <file>picture/cs_down.svg</file>
+        <file>picture/do.svg</file>
+        <file>picture/fa.svg</file>
+        <file>picture/animation.svg</file>
+        <file>picture/la.svg</file>
+        <file>picture/mi.svg</file>
+        <file>picture/re.svg</file>
+        <file>picture/so.svg</file>
+        <file>picture/ti.svg</file>
+        <file>picture/bg.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg5"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <color-profile
+       name="Agfa-:-Swop-Standard"
+       xlink:href="../../../../WINDOWS/system32/spool/drivers/color/RSWOP.icm"
+       id="color-profile832" />
+  </defs>
+  <g
+     id="layer1">
+    <circle
+       style="fill:#8beeef;stroke-width:0.211667;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;fill-opacity:1"
+       id="path846"
+       cx="37.555691"
+       cy="39.278439"
+       r="34.799305" />
+  </g>
+</svg>
